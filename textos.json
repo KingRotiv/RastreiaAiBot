@@ -1,0 +1,4 @@
+{
+	"inicio": "😊 Bem-vindo(a), {}!\n\nUtilize o comando <b>/rastrear</b> para obter informações sobre um determinado pacote.",
+	"informacoes_resumo":  "<b>🆔 Código:</b> {}\n<b>🛃 Serviço:</b> {}\n\n<b><u>ÚLTIMA ATUALIZAÇÃO</u></b>\n\n<b>📆 Data:</b> {} - {}\n<b>📌 Local:</b> {}\n<b>🚚 Status:</b> {}"
+}
